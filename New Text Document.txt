@@ -1,0 +1,11 @@
+The first letter of a Component should be in Capital.
+
+Always use a fat arrow function while calling a function with arguments, 
+don't call it directly.
+
+"/" will give the root of the directory while "./" will give the current directory. 
+
+"useEffect" hooks run after the screen is rendered. It runs every time the screen renders,
+to avoid this and to run only once, Array Dependency ([]) is added in the expression.
+
+{ key:value }, here, if the name of key and value is same, it can be stored like {key}.
